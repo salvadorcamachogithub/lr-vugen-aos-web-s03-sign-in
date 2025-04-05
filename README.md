@@ -1,4 +1,4 @@
-Updated: 02.2025
+Updated: 02.2025  
 Script created by Salvador Camacho
 
 This script was created with best practices, so it is more resilient, such as:
@@ -16,7 +16,7 @@ Runtime Settings were set to log only on errors and generate snapshot on errors,
 
 There is a TruClient script that does the same steps
 
-This script has 3 transactions
-AOS-Web-S03-01 Access AOS URL
-AOS-Web-S03-02 Sign In
+This script has 3 transactions:  
+AOS-Web-S03-01 Access AOS URL  
+AOS-Web-S03-02 Sign In  
 AOS-Web-S03-03 Sign Out
